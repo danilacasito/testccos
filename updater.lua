@@ -11,7 +11,7 @@ if actualcommit == nextcommit then
 else
     print("A new Version is available")
     net.close()
-    next = fs.open("/temporal", "r")
+    net = fs.open("/temporal", "r")
     print("Do you want to update? [Yes,No,Read]")
     e = read()
     if e == "yes" then
