@@ -1,10 +1,6 @@
-Fri Jan 8 20:25:48 UTC 2021
-commit 3f66e5572d1d288408042ae126c9c7a3d6273023
-Author: danilacasito <54474838+danilacasito@users.noreply.github.com>
-Date:   Fri Jan 8 21:25:33 2021 +0100
+Fri Jan 8 20:48:42 UTC 2021
+commit c32e8384fa3ef49562df0674507c5dda3872f45b
+Author: Dani Lacasito <Daniel>
+Date:   Fri Jan 8 21:48:09 2021 +0100
 
-<<<<<<< HEAD
-    Update version.yml
-=======
-    Update version.yml
->>>>>>> 9e2deab73b4f609aff08d672981be14da45a0d98
+    create a installer and a updater
