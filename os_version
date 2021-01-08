@@ -1,6 +1,6 @@
-Fri Jan 8 21:00:19 UTC 2021
-commit da8b74ea085abeb7d6ecbf34e4541813bf34dd25
+Fri Jan 8 21:10:38 UTC 2021
+commit adfb3a755a8371bfe758adecdeb5873a65d6a6dd
 Author: Dani Lacasito <Daniel>
-Date:   Fri Jan 8 21:59:53 2021 +0100
+Date:   Fri Jan 8 22:09:47 2021 +0100
 
-    Merge branch 'latest' of https://github.com/danilacasito/testccos into latest
+    create a uname program
