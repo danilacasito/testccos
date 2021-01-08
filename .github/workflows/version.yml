@@ -24,12 +24,12 @@ jobs:
 
     - name: Create version file
       run: |
-        echo `date` > .os_version
-        git log >> .os_version
+        echo `date` > os_version
+        git log >> os_version
     - name: Commit version file
       uses: alexesprit/action-update-file@main
       with:
         branch: 'latest'
-        file-path: .opus_version
+        file-path: os_version
         commit-msg: Update version date
         github-token: ${{ secrets.GITHUB_TOKEN }}
