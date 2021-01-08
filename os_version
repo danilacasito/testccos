@@ -1,6 +1,6 @@
-Fri Jan 8 20:48:42 UTC 2021
-commit c32e8384fa3ef49562df0674507c5dda3872f45b
+Fri Jan 8 21:00:19 UTC 2021
+commit da8b74ea085abeb7d6ecbf34e4541813bf34dd25
 Author: Dani Lacasito <Daniel>
-Date:   Fri Jan 8 21:48:09 2021 +0100
+Date:   Fri Jan 8 21:59:53 2021 +0100
 
-    create a installer and a updater
+    Merge branch 'latest' of https://github.com/danilacasito/testccos into latest
