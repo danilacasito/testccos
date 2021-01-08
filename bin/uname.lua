@@ -1,0 +1,1 @@
+shell.run("edit /os_version")
